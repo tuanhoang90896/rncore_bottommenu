@@ -1,0 +1,14 @@
+com/rnbottomcore/MainApplication.java
+ com.rnbottomcore.MainApplication
+ com.rnbottomcore.MainApplication$1
+com/rnbottomcore/BuildConfig.java
+ com.rnbottomcore.BuildConfig
+com/rnbottomcore/ReactNativeFlipper.java
+ com.rnbottomcore.ReactNativeFlipper
+ com.rnbottomcore.ReactNativeFlipper$1
+ com.rnbottomcore.ReactNativeFlipper$2
+ com.rnbottomcore.ReactNativeFlipper$2$1
+com/rnbottomcore/MainActivity.java
+ com.rnbottomcore.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
